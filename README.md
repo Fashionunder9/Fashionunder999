@@ -37,3 +37,18 @@ A Telegram bot that helps users find fashion products under ₹999 — powered b
 
 ```bash
 git clone https://github.com/your-username/FashionUnder999Bot.git
+---
+
+✅ You can **replace the name and contact section** with your own.  
+✅ Safe for GitHub + Render.  
+✅ No broken markdown, no deployment conflict.
+
+---
+
+Let me know once you’ve added it, then we’ll move to:
+
+- `main.py`  
+- `requirements.txt`  
+- Deployment 💥
+
+Bolo: `"README done"` jab ho jaye.
